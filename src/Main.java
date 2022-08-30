@@ -19,6 +19,5 @@ public class Main {
         System.out.println(a1.hashCode());
         System.out.println(a2.hashCode());
         System.out.println(b1.hashCode());
-        System.out.println(b2.hashCode());
     }
 }

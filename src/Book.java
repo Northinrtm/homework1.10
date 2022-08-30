@@ -46,7 +46,6 @@ class Book {
         }
         return b;
     }
-
     @Override
     public int hashCode() {
         return Objects.hash(name, author, year);
